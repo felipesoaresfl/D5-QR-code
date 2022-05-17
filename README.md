@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+# QR-code-d5
+Replicar página com QR Code baseado no exemplo do Frontend Mentor.
+
+## View Page
+
+https://felipesoaresfl.github.io/QR-code-d5/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
