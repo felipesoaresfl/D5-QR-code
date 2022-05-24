@@ -1,4 +1,4 @@
-# QR-code-d5
+# D5-QR-code
 Replicar página com QR Code baseado no exemplo do Frontend Mentor.
 
 ## View Page
