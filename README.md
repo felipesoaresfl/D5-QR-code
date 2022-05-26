@@ -94,12 +94,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 # **Have fun building!** 🚀
 
-# QR-code-d5
-
-Replicar página com QR Code baseado no exemplo do Frontend Mentor.
-
-## View Page
-
-https://felipesoaresfl.github.io/QR-code-d5/
-
 > > > > > > > e62f28e107a38f904d61b9c5ef33beaf6aeab6b4
